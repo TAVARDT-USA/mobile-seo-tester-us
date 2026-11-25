@@ -6,8 +6,6 @@
 
 Comprehensive verification of viewport configuration, responsive assets, and touch element spacing.
 
-Engineered and maintained by the enterprise web performance engineering practice at **TAVARDT**.
-
 ***
 
 ## Mobile SEO Auditing Capabilities
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://enterprise.com -json
 
 ***
 
-## Production Web Suite
-
-Access the web-based interactive auditing console:
-
-* **Official Mobile SEO Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Enterprise Consultation
 
 For technical architectural reviews conforming to NIST Digital Standards and Google Mobile-First Indexing Architecture, reach out to **TAVARDT**.
@@ -62,7 +51,7 @@ For technical architectural reviews conforming to NIST Digital Standards and Goo
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
